@@ -1,0 +1,1 @@
+the gitignore file is used to ignore a file to get commited or to get updated. However if the file already exists then it will get updated or commited regardless of the git ignore file being there.
