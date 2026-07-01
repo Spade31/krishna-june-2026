@@ -8,4 +8,3 @@ echo "this is the 2nd update"
 "2")
 echo "goodbye";;
 esac
-
